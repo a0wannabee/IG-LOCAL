@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">IG.LOCAL</string>
+    <string name="username">achwanhakim</string>
+    <string name="name">- achwan</string>
+    <string name="posts">0</string>
+    <string name="followers">553</string>
+    <string name="following">578</string>
+    <string name="post_label">post</string>
+    <string name="follower_label">followers</string>
+    <string name="following_label">following</string>
+    <string name="bio">Iridescence cloud</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="share_profile">Share Profile</string>
+</resources>
