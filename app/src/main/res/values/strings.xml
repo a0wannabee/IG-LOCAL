@@ -8,7 +8,7 @@
     <string name="post_label">post</string>
     <string name="follower_label">followers</string>
     <string name="following_label">following</string>
-    <string name="bio">Iridescence cloud</string>
+    <string name="bio">Lorem ipsum dolor sit amet.</string>
     <string name="edit_profile">Edit Profile</string>
     <string name="share_profile">Share Profile</string>
 </resources>
